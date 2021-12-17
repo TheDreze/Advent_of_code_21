@@ -41,7 +41,7 @@ def part_1():
 
 
 
-part_1()
+# part_1()
 
 
 
@@ -76,4 +76,4 @@ def part_2():
 
     print(x * y)
 
-# part_2()
+part_2()
